@@ -20,6 +20,10 @@ The project follows a structured Data Science pipeline divided into three main p
 **Ground Truth:** AI predictions are compared against a manually labeled validation dataset.
 **Metrics:** The system calculates Accuracy, Precision, Recall, and the Confusion Matrix to ensure reliability.
 
+### 4. Visualization
+**That's it!:** Enjoy your results with an interactive streamlit interface.
+
+
 ---
 
 ## 📂 Repository Structure
