@@ -12,6 +12,11 @@ The invaluable guidance provided during the **"Data Mining & Text Analytics"** c
 
 We thank **Google API Services** for providing the developer tools that allowed us to extract YouTube comments, experiment with large datasets, and analyze fan sentiment effectively.
 
+We also would like to point out the usage of AI Tools during the coding and development part, and extensive vibe-coding implementations with:
+**Gemini 3 Pro High** 
+
+
+
 ---
 
 ## 👩‍💻 The Team
