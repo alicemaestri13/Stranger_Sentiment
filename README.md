@@ -75,7 +75,7 @@ This project requires a **YouTube Data API v3** key to fetch comments.
     * Copy the generated key (starts with `AIza...`).
 
 2.  **Save the Key:**
-    * Open the file `api_key.py` in your project folder.
+    * Find and open the file `api_key.py` in the "code" folder
     * Paste your key inside the file like this:
         ```python
         API_KEY = "AIzaSy..."
