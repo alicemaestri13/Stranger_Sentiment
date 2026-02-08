@@ -46,7 +46,7 @@ Stranger Things_sentiment_project/
 ## 🚀 Installation & Setup
 
 ### Prerequisites
-1.  **Clone the repository** to your local machine.
+1.  **Clone the repository "Stranger_sentiment"** to your local machine.
 2.  **Create a virtual environment** (e.g., using Anaconda).
 3.  **Navigate to the project folder:** Ensure you are in the `code/` directory.
 
