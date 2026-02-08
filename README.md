@@ -6,7 +6,7 @@ A Data Science project analyzing the evolution of fan sentiment ("Hype") for Str
 This project analyzes the evolution of fan sentiment (or "Hype") for the TV series **Stranger Things** across five seasons. By extracting and analyzing comments from official YouTube trailers (USA), the project monitors how public perception shifted from the "Sleeper Hit" status of Season 1 to the global anticipation for Season 5.
 
 ## ⚙️ Methodology & Pipeline
-The project follows a structured Data Science pipeline divided into three main phases:
+The project follows a structured Data Science pipeline divided into four main phases:
 
 ### 1. Data Ingestion (ETL)
 **Source:** YouTube Data API v3.
@@ -30,7 +30,7 @@ The project follows a structured Data Science pipeline divided into three main p
 The project is organized as follows:
 
 ```text
-Stranger Things_sentiment_project/
+Stranger_Sentiment/
 ├── api_key.py                  # API Key configuration (Not included in repo)
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
