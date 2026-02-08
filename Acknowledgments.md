@@ -16,17 +16,17 @@ We thank **Google API Services** for providing the developer tools that allowed 
 
 ## 👩‍💻 The Team
 
-This project was a **100% team effort** by **Alice Maestri**, **Chiara Saponara**, and **Eleonora Maraccini**. While we collaborated closely on every phase of the pipeline, we would like to highlight our individual contributions:
+This project was a **team effort** by **Alice Maestri**, **Chiara Saponara**, and **Eleonora Maraccini**. While we collaborated closely on every phase of the pipeline, we would like to highlight our individual contributions:
 
 * **Chiara Saponara**
     * Conceived the initial idea to run sentiment analysis on movie and TV series commentary.
-    * Established the initial project setup and created the data extraction pipeline (`data_acquisition.py`).
+    * Established the project setup and created the data extraction pipeline (`data_acquisition.py`).
     * Developed the prototype for the sentiment analysis logic (`sentiment_analysis.py`).
 
 * **Alice Maestri**
-    * Refined and improved the initial codebases to create the final, accessible, and production-ready versions.
+    * Refined and improved the initial codebases to create the final versions.
     * Managed the project documentation, including writing the `README` file and structuring the final GitHub repository.
-    * Assisted Chiara in the implementation of each development step.
+    * Assisted in the implementation of each development step.
 
 * **Eleonora Maraccini**
     * Provided comprehensive assistance at every stage of creation, including research and code writing.
